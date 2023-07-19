@@ -18,7 +18,7 @@ Always looking for new challenges, I'm transitioning into data science; improvin
 ### [Excel to Gantt](https://github.com/pveinberg/excel-to-gantt)
 Python script to read and process Excel datasource and build a Gantt Chart
 
-### [Fomação Engenharia de Dados](https://github.com/pveinberg/formacao-engenharia-dados/tree/develop)
+### [Fomação Engenharia de Dados](https://github.com/pveinberg/formacao-engenharia-dados)
 O objetivo deste projeto é desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
 
 [work in process...](#)
