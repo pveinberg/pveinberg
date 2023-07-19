@@ -11,7 +11,11 @@ I am currently working at a leading telecommunications company in Brazil, perfor
 Always looking for new challenges, I'm transitioning into data science; improving my knowledge in Python language (advanced) and developing projects with Pandas, Numpy, Matplotlib, Seaborn and Scikit-Learn libraries, among others.
 
 ## Some projects
-* [Línea 144](https://github.com/pveinberg/linea-144)
 
+### [Línea 144](https://github.com/pveinberg/linea-144)
+144 is a telephone number implemented throughout the Argentine Republic to report domestic violence. The datasets studied in this notebook contain the records of the calls to this service.
+
+### [Excel to Gantt](https://github.com/pveinberg/excel-to-gantt)
+Python script to read and process Excel datasource and build a Gantt Chart
 
 [work in process...](#)
