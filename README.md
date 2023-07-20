@@ -18,9 +18,13 @@ O objetivo deste projeto é desenvolver um pipeline para movimentar um grande co
 ### [Call 144: exploring data about domestic violence](https://github.com/pveinberg/linea-144)
 144 is a telephone number implemented throughout the Argentine Republic to report domestic violence. The datasets studied in this notebook contain the records of the calls to this service.
 
-### [Excel to Gantt with python](https://github.com/pveinberg/excel-to-gantt)
-Python script to read and process Excel datasource and build a Gantt Chart
+* [Pre-process](https://github.com/pveinberg/linea-144/blob/main/01_pre_process.ipynb)
+* [Explore data](https://github.com/pveinberg/linea-144/blob/main/02_linea_144_explore.ipynb)
+* [k-NN](https://github.com/pveinberg/linea-144/blob/main/03_knn.ipynb)
+* [Linear Regression](https://github.com/pveinberg/linea-144/blob/main/04_linear_regression.ipynb)
 
+### [Excel to Gantt with Python](https://github.com/pveinberg/excel-to-gantt)
+Python script to read and process Excel datasource and build a Gantt Chart
 
 
 [work in process...](#)
