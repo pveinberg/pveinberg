@@ -12,13 +12,15 @@ Always looking for new challenges, I'm transitioning into data science; improvin
 
 ## Some projects
 
-### [Línea 144](https://github.com/pveinberg/linea-144)
+### [Engenharia de Dados: pipeline de dados](https://github.com/pveinberg/formacao-engenharia-dados)
+O objetivo deste projeto é desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
+
+### [Call 144: exploring data about domestic violence](https://github.com/pveinberg/linea-144)
 144 is a telephone number implemented throughout the Argentine Republic to report domestic violence. The datasets studied in this notebook contain the records of the calls to this service.
 
-### [Excel to Gantt](https://github.com/pveinberg/excel-to-gantt)
+### [Excel to Gantt with python](https://github.com/pveinberg/excel-to-gantt)
 Python script to read and process Excel datasource and build a Gantt Chart
 
-### [Fomação Engenharia de Dados](https://github.com/pveinberg/formacao-engenharia-dados)
-O objetivo deste projeto é desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
+
 
 [work in process...](#)
