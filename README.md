@@ -26,6 +26,10 @@ O objetivo deste projeto é desenvolver um pipeline para movimentar um grande co
 ### [Excel to Gantt with Python](https://github.com/pveinberg/excel-to-gantt)
 Python script to read and process Excel datasource and build a Gantt Chart
 
+
+### [Job salaries](https://github.com/pveinberg/data-analysis/blob/main/job-salaries.ipynb)
+Exploring a dataset about data jobs salaries from 2020 to 2022
+
 ### [Exchange rates in Argentina](https://github.com/pveinberg/data-analysis/blob/main/exchange-rates-in-argentina.ipynb)
 Argentinian economy has two exchange rates to USD. An official and an unofficial (called blue). 
 
@@ -36,6 +40,9 @@ The goals of this notebook are:
 3.	Merge those datasets.
 4.	Calculate the mean between buy and sell for both exchange rates. 
 5.	Analyze the correlation along time for these exchange rates. 
+
+### [25 Mistakes You Shouldn't Make](https://github.com/pveinberg/data-analysis/blob/main/mistakes.ipynb)
+25 mistakes a _Pandas_ developer shouldn't make
 
 
 [work in process...](#)
