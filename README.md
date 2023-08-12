@@ -13,7 +13,9 @@ Always looking for new challenges, I'm transitioning into data science; improvin
 ## Some projects
 
 ### [Engenharia de Dados: pipeline do _csv_ até Power BI](https://github.com/pveinberg/formacao-engenharia-dados/blob/main/README.md)
-O objetivo deste projeto é desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
+O objetivo deste projeto foi desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
+
+(*) Atividades realizadas na formação Engenheiro de Big Data na [Minsait](https://www.minsait.com/pt) ministrado por [Caiuá França](https://github.com/caiuafranca)
 
 ### [Call 144: exploring data about domestic violence](https://github.com/pveinberg/linea-144)
 144 is a telephone number implemented throughout the Argentine Republic to report domestic violence. The datasets studied in this notebook contain the records of the calls to this service.
@@ -44,5 +46,13 @@ The goals of this notebook are:
 ### [25 Mistakes You Shouldn't Make](https://github.com/pveinberg/data-analysis/blob/main/mistakes.ipynb)
 25 mistakes a _Pandas_ developer shouldn't make
 
+### [Curso Data-Science - Minsait]
+Elaboração de projetos e atividades da formação Data Science na [Minsait](https://www.minsait.com/pt) ministrado por [Thaís Ratis](https://github.com/thaisratis)
+
+#### Aula 1
+
+* [Numpy](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Numpy.ipynb)
+* [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
+* [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql.ipynb)
 
 [work in process...](#)
