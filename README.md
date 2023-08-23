@@ -49,10 +49,11 @@ The goals of this notebook are:
 ### [Curso Data-Science - Minsait]
 Elaboração de projetos e atividades da formação Data Science na [Minsait](https://www.minsait.com/pt) ministrado por [Thaís Ratis](https://github.com/thaisratis)
 
-#### Aula 1
 
 * [Numpy](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Numpy.ipynb)
 * [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
-* [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql.ipynb)
+* [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
+
+Atividades do treinamento 
 
 [work in process...](#)
