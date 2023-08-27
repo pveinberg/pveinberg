@@ -54,5 +54,6 @@ Elaboração de projetos e atividades da formação Data Science na [Minsait](ht
 * [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
 * [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
 * [Pré-processamento](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/pre-processamento.ipynb)
+* [Alguns questionamentos](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/novas-questoes.ipynb)
 
 [work in process...](#)
