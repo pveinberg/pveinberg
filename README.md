@@ -12,6 +12,18 @@ Always looking for new challenges, I'm transitioning into data science; improvin
 
 ## Some projects
 
+### [Trilhando Caminhos em Ciência de Dados](https://github.com/pveinberg/Curso_DataScience_Minsait/)
+Projetos e atividades da formação em Data Science oferecida pela [Minsait](https://www.minsait.com/pt) e ministrada por [Thaís Ratis](https://github.com/thaisratis)
+
+#### Destaques
+* [Numpy](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Numpy.ipynb)
+* [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
+* [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
+* [Pré-processamento](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/pre-processamento.ipynb)
+* [Alguns questionamentos](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/novas-questoes.ipynb)
+
+[work in process...](https://github.com/pveinberg/Curso_DataScience_Minsait/)
+
 ### [Engenharia de Dados: pipeline do _csv_ até Power BI](https://github.com/pveinberg/formacao-engenharia-dados/blob/main/README.md)
 O objetivo deste projeto foi desenvolver um pipeline para movimentar um grande conjunto de dados (big data) a partir de uma fonte inicial (flatfile) até a apresentação de dashboard para tomada de decisão sobre plataforma Power BI.
 
@@ -46,14 +58,3 @@ The goals of this notebook are:
 ### [25 Mistakes You Shouldn't Make](https://github.com/pveinberg/data-analysis/blob/main/mistakes.ipynb)
 25 mistakes a _Pandas_ developer shouldn't make
 
-### [Curso Data-Science - Minsait]
-Elaboração de projetos e atividades da formação Data Science na [Minsait](https://www.minsait.com/pt) ministrado por [Thaís Ratis](https://github.com/thaisratis)
-
-
-* [Numpy](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Numpy.ipynb)
-* [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
-* [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
-* [Pré-processamento](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/pre-processamento.ipynb)
-* [Alguns questionamentos](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/novas-questoes.ipynb)
-
-[work in process...](#)
