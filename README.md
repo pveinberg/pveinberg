@@ -55,7 +55,7 @@ The goals of this notebook are:
 4.	Calculate the mean between buy and sell for both exchange rates. 
 5.	Analyze the correlation along time for these exchange rates. 
 
-### [Using `plotly`](https://github.com/pveinberg/data-analysis/samples-plotly/main-samples-plotly.ipynb)
+### [Using `plotly`](https://github.com/pveinberg/data-analysis/blob/main/samples-plotly/main-samples-plotly.ipynb)
 
 ### [25 Mistakes You Shouldn't Make](https://github.com/pveinberg/data-analysis/blob/main/mistakes.ipynb)
 25 mistakes a _Pandas_ developer shouldn't make
