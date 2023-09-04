@@ -21,7 +21,7 @@ Projetos e atividades da formação em Data Science oferecida pela [Minsait](htt
 * [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
 * [Pré-processamento](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/pre-processamento.ipynb)
 * [Alguns questionamentos](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula03/novas-questoes.ipynb)
-
+* [BMW Pricing Challenge - Regressão Linear](https://www.kaggle.com/pveinberg/bmw-pricing-challenge-r2-71-1)
 [work in process...](https://github.com/pveinberg/Curso_DataScience_Minsait/)
 
 ### [Engenharia de Dados: pipeline do _csv_ até Power BI](https://github.com/pveinberg/formacao-engenharia-dados/blob/main/README.md)
