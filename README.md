@@ -8,9 +8,12 @@ For over 15 years I have participated in numerous challenges, as a developer and
 
 I am currently working at a leading telecommunications company in Brazil, performing monitoring and functional analysis activities in a large data ingestion project for a Hadoop environment.
 
-Always looking for new challenges, I'm transitioning into data science; improving my knowledge in Python language (advanced) and developing projects with Pandas, Numpy, Matplotlib, Seaborn and Scikit-Learn libraries, among others.
+Always looking for new challenges, I'm transitioning into data science; improving my knowledge in maths, statistics, advanced python language and developing projects with Pandas, Numpy, Matplotlib, Seaborn and Scikit-Learn libraries, among others.
 
 ## Some projects
+
+### [My Kaggle](https://www.kaggle.com/pveinberg/code)
+
 
 ### [Trilhando Caminhos em Ciência de Dados](https://github.com/pveinberg/Curso_DataScience_Minsait/)
 Projetos e atividades da formação em Data Science oferecida pela [Minsait](https://www.minsait.com/pt) e ministrada por [Thaís Ratis](https://github.com/thaisratis)
