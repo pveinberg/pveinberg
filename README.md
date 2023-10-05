@@ -32,6 +32,17 @@ O objetivo deste projeto foi desenvolver um pipeline para movimentar um grande c
 
 (*) Atividades realizadas na formação Engenheiro de Big Data na [Minsait](https://www.minsait.com/pt) ministrado por [Caiuá França](https://github.com/caiuafranca)
 
+### Retail Price Optiomization
+
+#### Summary
+1. [Imports](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#1.-Imports) - library import
+2. [Configs](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#2.-Configs) - configurations
+3. [Load Data](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#3.-Load-Data) - load data to pandas dataframe
+4. [Pre process](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#4.-Pre-process) - data preprocessing
+5. [Analytics](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#5.-Analytics) - data analytics
+6. [ML](https://www.kaggle.com/code/pveinberg/retail-price-optiomization/#6.-ML) - modelling
+
+
 ### [Call 144: exploring data about domestic violence](https://github.com/pveinberg/linea-144)
 144 is a telephone number implemented throughout the Argentine Republic to report domestic violence. The datasets studied in this notebook contain the records of the calls to this service.
 
