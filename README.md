@@ -14,6 +14,8 @@ Always looking for new challenges, I'm transitioning into data science; improvin
 
 ### [My Kaggle](https://www.kaggle.com/pveinberg/code)
 
+### [Implementação de MLOps](https://github.com/pveinberg/formacao_ML_minsait/tree/62ee91de89d0dbcc6325b04ea17c4dac8c50c483/Notebooks/Projeto-Titanic#readme)
+Sobre o conhecido dataset de sobreviventes do Titanic, disponibilizado em Kaggle, implementei um fluxo de MLOps usando MLflow.  
 
 ### [Trilhando Caminhos em Ciência de Dados](https://github.com/pveinberg/Curso_DataScience_Minsait/)
 Projetos e atividades da formação em Data Science oferecida pela [Minsait](https://www.minsait.com/pt) e ministrada por [Thaís Ratis](https://github.com/thaisratis)
