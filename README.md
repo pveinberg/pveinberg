@@ -1,26 +1,36 @@
 # Pablo Veinberg
+2024-09-20
 
-## About Me
+[![LinkedIN](https://img.shields.io/badge/-LInkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-veinberg/)](https://www.linkedin.com/in/pablo-veinberg/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pveinberg)](https://www.kaggle.com/pveinberg)
 
-I am a specialist in software engineering with long experience in development, analysis, planning and management of IT projects.
+## Início
 
-For over 15 years I have participated in numerous challenges, as a developer and analyst; but also taking on leadership responsibilities as a Scrum Master or Project Manager. I have an excellent degree of communication in Portuguese and Spanish (native) and I can also read and write without difficulties in English.
+Sou um profissional altamente qualificado com uma sólida formação em Análise de Sistemas e pós-graduação em Engenharia de Software, complementada por uma extensa experiência em desenvolvimento de software, análise de requisitos e gestão de projetos. 
 
-I am currently working at a leading telecommunications company in Brazil, performing monitoring and functional analysis activities in a large data ingestion project for a Hadoop environment.
+Ao longo da minha carreira, atuei como desenvolvedor em várias tecnologias, incluindo PHP, Python, Java, Spring Boot, Angular (JS/TS), MySQL, Postgres ou PostGIS, dentre muitas outras. Tenho me desempenhado também como analista de requisitos e gerente de projetos.
 
-Always looking for new challenges, I'm transitioning into data science; improving my knowledge in maths, statistics, advanced python language and developing projects with Pandas, Numpy, Matplotlib, Seaborn and Scikit-Learn libraries, among others.
+Minha paixão por dados e inteligência artificial me levou a expandir minhas competências para a área de Ciência de Dados, onde concluí uma série de cursos avançados em temas como Big Data, Machine Learning, NLP, Inteligência Artificial e Engenharia de Dados. Tenho expertise em ferramentas e plataformas como Databricks, Apache Spark, Microsoft Azure, Google Cloud, e Apache Airflow, entre outras.
 
-## Some projects
+Com uma sólida compreensão dos princípios de ETL, modelagem preditiva, séries temporais, sistemas de recomendação e extração de dados, estou preparado para aplicar minhas habilidades técnicas e analíticas na resolução de problemas complexos e na geração de insights valiosos para as organizações.
 
-### [My Kaggle](https://www.kaggle.com/pveinberg/code)
+Além das minhas habilidades técnicas, sou fluente em espanhol (minha língua materna), português e tenho nível intermediário em inglês, o que me permite colaborar eficazmente em ambientes multiculturais e internacionais.
+
+Meu objetivo é contribuir como Cientista de Dados, combinando minha experiência diversificada em desenvolvimento de software e gestão de projetos com minhas novas competências em análise de dados e inteligência artificial, para impulsionar a inovação e a tomada de decisões baseada em dados.
+
+## Alguns projetos 
+
+### [Meu Kaggle](https://www.kaggle.com/pveinberg/code)
+
+### [Desafio _House Prices Advanced Regression Techniques_](https://github.com/pveinberg/house-prices-advanced-regression-techniques/blob/main/README.md)
 
 ### [Implementação de MLOps](https://github.com/pveinberg/formacao_ML_minsait/tree/62ee91de89d0dbcc6325b04ea17c4dac8c50c483/Notebooks/Projeto-Titanic#readme)
-Sobre o conhecido dataset de sobreviventes do Titanic, disponibilizado em Kaggle, implementei um fluxo de MLOps usando MLflow.  
+Sobre o conhecido dataset de sobreviventes do naufrágio do Titanic, disponibilizado no Kaggle, implementei um fluxo de MLOps usando MLflow.  
 
 ### [Trilhando Caminhos em Ciência de Dados](https://github.com/pveinberg/Curso_DataScience_Minsait/)
 Projetos e atividades da formação em Data Science oferecida pela [Minsait](https://www.minsait.com/pt) e ministrada por [Thaís Ratis](https://github.com/thaisratis)
 
-#### Destaques
+#### Outros Destaques
 * [Numpy](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Numpy.ipynb)
 * [Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Exercicio_Pandas.ipynb)
 * [SQL + Pandas](https://github.com/pveinberg/Curso_DataScience_Minsait/blob/main/Notebooks/Aula01/Pandas_Sql_v03.ipynb)
