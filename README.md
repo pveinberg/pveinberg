@@ -22,6 +22,8 @@ Meu objetivo é contribuir como Cientista de Dados, combinando minha experiênci
 
 ### [Meu Kaggle](https://www.kaggle.com/pveinberg/code)
 
+### [Phishing Detection usando Keras](https://www.kaggle.com/code/pveinberg/keras-phishing-detection?scriptVersionId=198920641)
+
 ### [Desafio _House Prices Advanced Regression Techniques_](https://github.com/pveinberg/house-prices-advanced-regression-techniques/blob/main/README.md)
 
 ### [Implementação de MLOps](https://github.com/pveinberg/formacao_ML_minsait/tree/62ee91de89d0dbcc6325b04ea17c4dac8c50c483/Notebooks/Projeto-Titanic#readme)
